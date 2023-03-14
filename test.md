@@ -1,3 +1,3 @@
 - [ ] a task
-- [ ] another task
+- [x] another task
 - [ ] another task 2

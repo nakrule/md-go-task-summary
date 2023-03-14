@@ -1,4 +1,2 @@
-- [X] a task from file 2
-- [ ] a task from file 2
-- [X] a task from file 2
-- [ ] task from file 2
+- [x] a task from file 2
+- [ ] another task from file 2
